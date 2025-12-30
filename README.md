@@ -20,15 +20,15 @@ I value clear ownership, maintainable systems, and solving real product problems
 
 **💼 Senior Software Engineer**  
 **Digital24**  
-Owned the technical architecture of a press release distribution SaaS platform spanning Next.js frontend, NestJS backend services, and AWS infrastructure. Worked extensively on pricing logic, payments, authentication, CI/CD, and production readiness. 💳🔐
+Owned the technical architecture of a press release distribution SaaS platform spanning Next.js frontend, NestJS backend services, and AWS infrastructure. Worked extensively on pricing logic, payments, authentication, CI/CD, and production readiness.
 
 **💼 Senior Frontend Engineer & Technical Lead**  
 **MeCash**  
-Led frontend architecture for a cross-border payments platform, delivering multi-currency dashboards, complex payment flows, and role-based access systems. Improved performance, reliability, and deployment velocity. ⚡📈
+Led frontend architecture for a cross-border payments platform, delivering multi-currency dashboards, complex payment flows, and role-based access systems. Improved performance, reliability, and deployment velocity.
 
 **💼 Senior Frontend / Full-Stack Engineer**  
 **Sabiroad Logistics, ELink Markets, IntelliMed Media**  
-Delivered web and mobile applications across logistics and healthcare domains, including dashboards, operational tools, and real-time workflows. Collaborated closely with backend and product teams to ship stable, production-ready features. 🏗️📱
+Delivered web and mobile applications across logistics and healthcare domains, including dashboards, operational tools, and real-time workflows. Collaborated closely with backend and product teams to ship stable, production-ready features.
 
 **💼 JavaScript Developer**  
 **Code & Care (Remote)**  
