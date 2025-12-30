@@ -1,41 +1,60 @@
-# Hi there! 👋
+## Mubaraq Adigun
 
-I'm Mubaraq Adigun, a passionate Full Stack Developer with a proven track record of delivering high-quality software solutions. 🚀
+Senior Full-Stack Engineer with a backend focus and experience building product-driven systems across fintech, logistics, healthcare, and digital platforms. I work primarily in the JavaScript/TypeScript ecosystem, with hands-on experience delivering production-ready software across frontend, backend, and cloud infrastructure.
 
-## 🌟 Experience:
-- 4+ years of expertise in JavaScript, TypeScript, React, React Native, Redux, and various CSS frameworks.
-- Proficient in Node.js, Express, MongoDB, Git, and AWS for robust backend architecture.
+I value clear ownership, maintainable systems, and solving real product problems in collaborative teams.
 
-## 💼 Professional Background:
-- **Senior Frontend Engineer** at Sabiroad International Logistics, Lagos, Nigeria.
-- **Frontend Developer** at ELinks Market LTD, Lagos, Nigeria.
-- **JavaScript Developer** at Code&Care, Kyiv, Ukraine.
-- **Full Stack Developer** at IntelliMed Media, Lagos, Nigeria.
+---
 
-## 🚀 Key Projects:
-1. **Real-Time Delivery Tracking:** Engineered a cross-platform mobile app using React Native and Google Maps for accurate delivery information.
-2. **Admin Platform for Kids' Arts Marketplace:** Built with React, Redux, and Material UI to manage teachers, students, and parents.
-3. **Responsive Betting Platform:** Collaborated using GraphQL, React, TypeScript, and Material UI to enhance user experience.
+## Professional Focus
 
-## 🛠️ Technical Skills:
-- **Frontend:** JavaScript, TypeScript, React, Next.js, React Native, Redux, Context API, Material UI, Tailwind CSS, Bootstrap.
-- **Backend:** Node.js, Express, MongoDB, PostgreSQL.
-- **Tools:** Git, AWS, Android Studio, Xcode.
+- Designing and maintaining RESTful APIs and backend services
+- Building scalable frontend applications with modern React and Next.js
+- Working across authentication, payments, pricing logic, and data modeling
+- Shipping production systems with attention to security, performance, and reliability
+- Improving existing codebases through refactoring and better engineering practices
 
-## 🌐 Personal Projects:
-- **Firebase-Todo-App:** A mobile to-do app using React Native, TypeScript, and Firebase.
-- **Bookmark API Manager:** REST API with Nest.js for efficient bookmark management.
-- **Votepic:** A photo voting app with real-time updates using socket.io.
+---
 
-## 🏆 Certifications:
-- AWS Cloud Practitioner
-- HackerRank Python Problem Solving
+## Experience Snapshot
 
-## 🎓 Education:
-- BSc in Information Technology from Ghana Communication Technology University, Accra, Ghana.
+**Senior Software Engineer**  
+Digital24  
+Owned the technical architecture of a press release distribution SaaS platform spanning Next.js frontend, NestJS backend services, and AWS infrastructure. Worked extensively on pricing logic, payments, authentication, CI/CD, and production readiness.
 
-## 🔗 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/mubaraq-adigun06/)
-- [GitHub](https://github.com/mubaraqadigun)
+**Senior Frontend Engineer & Technical Lead**  
+MeCash  
+Led frontend architecture for a cross-border payments platform, delivering multi-currency dashboards, complex payment flows, and role-based access systems. Improved performance, reliability, and deployment velocity.
 
-Let's connect and create something amazing together! 🌟
+**Senior Frontend / Full-Stack Engineer**  
+Sabiroad Logistics, ELink Markets, IntelliMed Media  
+Delivered web and mobile applications across logistics and healthcare domains, including dashboards, operational tools, and real-time workflows. Collaborated closely with backend and product teams to ship stable, production-ready features.
+
+**JavaScript Developer**  
+Code & Care (Remote)  
+Contributed to React-based applications and internal tools in a distributed engineering team.
+
+---
+
+## Core Technologies
+
+- **Languages:** JavaScript, TypeScript  
+- **Frontend:** React, Next.js (App Router), React Native  
+- **Backend:** Node.js, NestJS, Express  
+- **Data:** PostgreSQL, ORM-based data modeling  
+- **Infrastructure:** AWS (EC2, S3, Secrets Manager), CI/CD pipelines  
+- **Practices:** REST API design, authentication & authorization, secure payments, production debugging
+
+---
+
+## Education
+
+**B.Sc. in Information Technology**  
+Ghana Communication Technology University, Accra, Ghana
+
+---
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/mubaraq-adigun06/  
+- GitHub: https://github.com/mubaraqadigun
